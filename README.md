@@ -3,9 +3,16 @@
 
 ## Description
 
-- The goal of this project is to prompt the user with questions in the command line that allows the user to choose the shape, color, color of text, and text. Once the User answers all the questions, their logo will be saved on an SVG file. 
+- The goal of this project is to prompt the user with questions in the command line that allows the user to choose the shape, color, color of text, and text. Once the User answers all the questions, their logo will be saved on an SVG file.
 
-# Functionality link
+## Table of contents
+
+[]()
+[]()
+[]()
+[]()
+
+## Functionality link
 
 
 (https://drive.google.com/file/d/1LetJV65cJ-xY2UnmAOuBXVKtuCKTnly7/view?usp=drive_link)
@@ -15,6 +22,12 @@
  - imported required packages: inquirer, inquirer-maxlength-input-prompt, fs, ./shapes
  - logo linked to svg (string added with input and shape color/shape choice)
  - Jest used for application testing
+
+## Installation 
+- index.js
+- shapes.js
+- svg
+- jest
 
 ## Screenshot 
 
