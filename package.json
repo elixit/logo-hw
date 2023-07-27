@@ -2,5 +2,18 @@
   "dependencies": {
     "inquirer": "^8.2.4",
     "inquirer-maxlength-input-prompt": "^1.0.2"
-  }
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  },
+  "name": "logo-hw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
