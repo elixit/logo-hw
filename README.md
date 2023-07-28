@@ -1,2 +1,0 @@
-# logo-hw
-logo repo
