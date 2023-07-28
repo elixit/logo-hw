@@ -12,7 +12,7 @@
 3. [ usage ](#Usage)
 4. [ installation ](#Installation)
 5. [ screenshot ](#Screenshot)
-6. [ liscence ](#Liscence)
+6. [ liscence ](#Licence)
 
 ## Functionalitylink
 
